@@ -1,0 +1,15 @@
+﻿<Window x:Class="KutuphaneTakip.Satisfaction4"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:gif="https://github.com/XamlAnimatedGif/XamlAnimatedGif"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KutuphaneTakip"
+        mc:Ignorable="d"
+        Title="Satisfaction4" Height="250" Width="264.599" WindowStyle="None" AllowsTransparency="True" Background="Transparent" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <StackPanel>
+            <Image Width="200" Height="auto" gif:AnimationBehavior.SourceUri="Images/icon/ok.gif" gif:AnimationBehavior.RepeatBehavior="1x" />
+        </StackPanel>
+    </Grid>
+</Window>
